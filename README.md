@@ -21,10 +21,10 @@ This repository contains the **best Data Structures and Algorithms (DSA) questio
 ## **🛠️ How to Use?**  
 
 **Clone the repository:**  
-git clone https://github.com/Ankush-Dutta/DSA-Top-Questions.git
+git clone https://github.com/Ankush-Dutta/DSA-Top-Questions.git<br>
 cd DSA-Top-Questions
 
---
+---
 
 ## **🤝 Contributing**  
 
@@ -33,22 +33,22 @@ Contributions are always welcome! If you have better solutions, optimizations, o
 ### **Steps to Contribute:**  
 1️⃣ **Fork the repository**  
 2️⃣ **Create a new branch:**  
-git checkout -b feature-improvement
+git checkout -b feature-improvement<br>
 3️⃣ Make your changes and commit:
-git commit -m "Optimized XYZ algorithm"
-4️⃣ Push the branch to your forked repository:
-git push origin feature-improvement
+<br>git commit -m "Optimized XYZ algorithm"<br>
+4️⃣ Push the branch to your forked repository:<br>
+git push origin feature-improvement<br>
 5️⃣ Create a Pull Request (PR) and describe the changes you made
 
---
+---
 
 ## **💡 Acknowledgments**
 
-1️⃣ Inspired by FAANG interview problems
-2️⃣ Uses the best resources from Leetcode, Codeforces, and GeeksforGeeks
-3️⃣ Designed to strengthen DSA fundamentals and problem-solving skills
+1️⃣ Inspired by FAANG interview problems.<br>
+2️⃣ Uses the best resources from Leetcode, Codeforces, and GeeksforGeeks.<br>
+3️⃣ Designed to strengthen DSA fundamentals and problem-solving skills.<br>
 
---
+---
 
 ## **🔥 If you find this repository useful, consider giving it a ⭐! 🚀**
 
